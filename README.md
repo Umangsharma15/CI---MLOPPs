@@ -1,2 +1,2 @@
 # CI---MLOPPs
-this project is build foe CI practice
+this project is build for CI practice
